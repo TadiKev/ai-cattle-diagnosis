@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.venv/
+env/
+venv/
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+build/
+
+# Docker
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+thumbs.db
+
+# Models & data (don't accidentally commit large files)
+models/
+data/
+*.h5
+*.pt
+*.joblib
+
+# Logs
+*.log
+
+# secrets
+.env

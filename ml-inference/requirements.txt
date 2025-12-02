@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+numpy
+pillow
+# add torch or tensorflow as needed later

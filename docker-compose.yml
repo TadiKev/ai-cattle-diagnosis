@@ -1,0 +1,53 @@
+version: "3.8"
+services:
+  postgres:
+    image: postgres:15
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      POSTGRES_DB: ${POSTGRES_DB:-cattle_db}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  backend:
+    build: ./backend-django
+    container_name: backend
+    command: sh -c "python manage.py migrate --noinput && gunicorn cattle_diag.wsgi:application --bind 0.0.0.0:8000 --workers 3"
+    volumes:
+      - ./backend-django:/app
+      - ./media:/app/media
+    environment:
+      - DATABASE_URL=postgresql://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD:-postgres}@postgres:5432/${POSTGRES_DB:-cattle_db}
+      - SECRET_KEY=${SECRET_KEY:-changeme}
+      - DEBUG=${DEBUG:-1}
+    depends_on:
+      - postgres
+    ports:
+      - "8000:8000"
+
+  ml-inference:
+    build: ./ml-inference
+    container_name: ml-inference
+    command: sh -c "uvicorn inference:app --host 0.0.0.0 --port 8001 --reload"
+    volumes:
+      - ./ml-inference:/app
+      - ./models:/app/models
+    environment:
+      - INFERENCE_TOKEN=${INFERENCE_TOKEN:-changeme}
+    ports:
+      - "8001:8001"
+
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    command: sh -c "npm install && npm run dev -- --host"
+    volumes:
+      - ./frontend:/app
+    ports:
+      - "3000:3000"
+
+volumes:
+  pgdata:
