@@ -1,36 +1,33 @@
 # Python
 __pycache__/
 *.py[cod]
-*.env
-.venv/
-env/
-venv/
+*.pyo
+*.pyd
 *.sqlite3
+*.db
+.env
+.env.*.local
+*.bak
+
+# Virtualenv
+.venv/
+venv/
 
 # Node
 node_modules/
-dist/
-build/
+frontend/package-lock.json
+package-lock.json
 
-# Docker
-docker-compose.override.yml
+# Data / models / media (do NOT commit heavy files)
+data_raw/
+dataset/
+ml-inference/models/
+media/
+gradcam.png
+backend-django/db.sqlite3.bak
 
-# VSCode
+# IDEs & OS
 .vscode/
-
-# System
+.devcontainer/
 .DS_Store
-thumbs.db
-
-# Models & data (don't accidentally commit large files)
-models/
-data/
-*.h5
-*.pt
-*.joblib
-
-# Logs
-*.log
-
-# secrets
-.env
+Thumbs.db
