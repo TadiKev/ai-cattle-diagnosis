@@ -48,7 +48,7 @@ You can run it using **Docker** or **manual setup**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your_repo>/ai-cattle-diagnosis.git
+git clone https://github.com/TadiKev/ai-cattle-diagnosis.git
 cd ai-cattle-diagnosis
 ````
 
