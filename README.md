@@ -1,11 +1,3 @@
-Understood — here is a **clean, natural, human-written README** that looks professionally crafted, NOT like AI output.
-You can paste it directly into **README.md**.
-
----
-
-# **README.md (Final Version — Human Style)**
-
-```md
 # AI Cattle Disease Diagnosis System
 
 This application provides an intelligent cattle disease diagnosis tool designed for farms, veterinary professionals, and livestock managers.  
