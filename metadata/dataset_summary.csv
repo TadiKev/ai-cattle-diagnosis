@@ -1,0 +1,43 @@
+disease,label_count,avg_images_per_case,has_text_symptoms
+Abses,12,,True
+Avitaminosis,12,,True
+Babesiosis,12,,True
+Bovine Ephemeral Fever,12,,True
+Corpus Luteum Persisten,12,,True
+Distokia,12,,True
+Endometritis,12,,True
+Enteritis,12,,True
+Eutokia,12,,True
+Fasciolosis,12,,True
+Feline Calicivirus,12,,True
+Feline Viral Rhinotracheitis,12,,True
+Fraktur,12,,True
+Ginggivitis,12,,True
+Hernia,12,,True
+Hipofungsi Ovari,12,,True
+Indigesti,12,,True
+Kawin Berulang,12,,True
+Kecelakaan,12,,True
+Keguguran,12,,True
+Kekurangan Calsium,12,,True
+Keracunan,12,,True
+Keracunan Pestisida,12,,True
+Konjunctivitas,12,,True
+Malnutrisi,12,,True
+Mastisis,12,,True
+Miasis,12,,True
+Orf,12,,True
+Otitis Interna,12,,True
+Papilloma,12,,True
+Pneumonia,12,,True
+Prolapsus Dubur,12,,True
+Q fever,12,,True
+Radang Mata,12,,True
+Retensio Secundarium,12,,True
+Scabies,12,,True
+Silent heart,12,,True
+Stomatitis,12,,True
+Surra,12,,True
+Tidak Sakit,12,,True
+Tympany,12,,True
+Urolothiasis,12,,True

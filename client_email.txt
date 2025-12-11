@@ -1,0 +1,23 @@
+Subject: AI Cattle Diagnosis — Quick test instructions
+
+Hi,
+
+You can test the AI Cattle Diagnosis app locally:
+
+1. Clone repo:
+   git clone https://github.com/TadiKev/ai-cattle-diagnosis.git
+
+2. From the repo root run (PowerShell):
+   .\scripts\fetch_assets.ps1 -baseUrl "https://github.com/TadiKev/ai-cattle-diagnosis/releases/download/v1.0.0"
+
+3. Start servers:
+   - ml server: cd ml-inference; .\.venv\Scripts\Activate.ps1; pip install -r requirements.txt; uvicorn main:app --reload --port 8001
+   - django: cd backend-django; .\.venv\Scripts\Activate.ps1; pip install -r requirements.txt; python manage.py migrate; python manage.py runserver
+   - frontend: cd frontend; npm install; npm run dev
+
+4. Open the frontend URL in your browser, login and try "New Diagnosis".
+
+If you get stuck tell me the OS and the exact terminal output and I'll help.
+
+Thanks,
+TadiKev

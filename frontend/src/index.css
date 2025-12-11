@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small UI polish */
+html, body, #root { height: 100%; }
+body { background: linear-gradient(180deg,#f7fdf7,#f0f9f0); }
+.card {
+  @apply bg-white rounded-2xl shadow-sm p-4;
+}
+.btn {
+  @apply px-4 py-2 rounded-lg font-semibold;
+}
+.btn-primary {
+  @apply bg-brand-500 text-white hover:bg-brand-600;
+}
+.badge {
+  @apply inline-flex items-center px-2 py-1 rounded-full text-xs font-medium;
+}

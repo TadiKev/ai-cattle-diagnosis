@@ -5,3 +5,6 @@ gunicorn
 python-dotenv
 django-cors-headers
 djangorestframework-simplejwt
+dj-database-url
+Pillow
+requests

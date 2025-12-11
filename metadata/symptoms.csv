@@ -1,0 +1,505 @@
+disease,gejala,risk
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
+Abses,Abses,nan
+Avitaminosis,"Anemia, Anorexia, Bulu Kusam, Demam, Diare, Gangguan otot , Gangguan pencernaan , Gangguan penglihatan, Gangguan pertumbuhan pada anak hewan, Gangguan pertumbuhan pada anak-anak, Gangguan reproduksi, Gangguan sistem kekebalan tubuh, Gangguan sistem saraf, Gangguan tulang, Keguguran pada betina, Kehilangan nafsu makan, Kejang , Kekurusan, Lelah , Lemah, Kerontokan rambut, Kesulitan dalam perkawinan, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah kulit seperti kering, bersisik, dan keriput, Masalah pernapasan, Penglihatan kabur, Perubahan perilaku, Pincang, Sakit otot, Sakit sendi, Sembelit",Kekurangan vitamin (tidak terlalu beresiko)
+Babesiosis,"Bulu kusam,Gatal,Kelainan kulit,Perkulitan",nan
+Bovine Ephemeral Fever,"Anorexia, Demam, Demam, Demam, Diare, Durasi gejala biasanya 3-4 hari, Gemetar , Kaku pada otot-otot tubuh, Kebingungan, Kehilangan nafsu makan, Lemah, Kelesuan, Kemungkinan terjadinya kejang, Kesadaran menurun, Kesulitan berdiri, Kesulitan bergerak, Muntah , Pembengkakan pada sendi-sendi kaki, Penurunan produksi susu pada sapi perah, Penurunan suhu tubuh setelah demam, Pincang, Produksi air liur meningkat, Sakit otot , Sakit sendi, Sempoyongan, Terjadi kejang-kejang, Tremor",Bisa menurunkan produksi daging
+Corpus Luteum Persisten,Anestrus,nan
+Distokia,"gelisah, Janin yang terlilit tali pusar, Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva, Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi, Kesulitan dalam proses persalinan, Keterlambatan dalam proses persalinan, Lama waktu persalinan yang tidak normal, Pendarahan atau keluarnya cairan dari vulva, Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat), Posisi atau presentasi janin yang tidak benar (misalnya, kaki belakang), Sapi kesulitan untuk melahirkan, Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa, Sapi merintih , Sapi tampak gelisah, Sapi tampak tidak nyaman",nan
+Endometritis,Rahim bernanah,nan
+Enteritis,"Berat badan turun secara signifikan, Darah dalam tinja (terkadang), Dehidrasi , Demam, Diare, Diare, Gatal atau terasa seperti ada benda asing di mata, Gejala flu, seperti pilek atau sakit tenggorokan (pada beberapa kasus), Penurunan berat badan yang signifikan, Kehilangan nafsu makan, Lelah , Keluarnya sekresi atau mata berair, Kram perut atau nyeri perut, Kurangnya urin, Lemas, Mata cekung, Mata merah, Mata iritasi, Mencret, Mengedipkan mata lebih sering dari biasanya, Mual, Mulut kering, Muntah , Pembengkakan pada kelopak mata, Penglihatan kabur, Penurunan produksi susu pada hewan ternak (jika berlaku), Perubahan perilaku, Perut kembung, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia), Suhu tubuh yang meningkat",nan
+Eutokia,"Lahir mati,Lahir normal,Tanda lain",nan
+Fasciolosis,"Bulu kusam, Kekurusan, Rahang bawah bengkak",nan
+Feline Calicivirus,"Anorexia,Demam,Liur berlebihan,Sempoyongan",nan
+Feline Viral Rhinotracheitis,"Anorexia,Demam,Liur berlebihan",nan
+Fraktur,Patah tulang kaki,nan
+Ginggivitis,Luka penis,nan
+Hernia,"Hernia abdominalis, Hernia umbilicalis",nan
+Hipofungsi Ovari,"Anestrus,Kekurusan",nan
+Indigesti,"Anorexia, Demam",nan
+Kawin Berulang,Kawin berulang,nan
+Kecelakaan,"Buta,Luka berdarah,Pincang,Tanda lain",nan
+Keguguran,"Keguguran, Keguguran Muda, Lahir mati",nan
+Kekurangan Calsium,"Ambruk ,Kekukurusan",nan
+Keracunan,"Anorexia, Lemah, Liur berlebihan, Mencret",nan
+Keracunan Pestisida,"Anorexia, Lemah",nan
+Konjunctivitas,"Buta, Kornea Mata Keruh",nan
+Malnutrisi,"Anemia, Diare, Gangguan pada organ tubuh, seperti hati atau ginjal, Gangguan pencernaan seperti diare atau sembelit, Gangguan pencernaan seperti diare atau sembelit, Gangguan pertumbuhan pada anak-anak, Gangguan sistem saraf, Gangguan sistem kekebalan tubuh, Kegagalan organ tertentu karena kekurangan nutrisi tertentu, Kelelahan yang kronis, Lemah, Kelesuan, Kualitas bulu atau kulit yang buruk, seperti kerontokan bulu, kulit kering, atau luka yang sulit sembuh, Kulit kering dan bersisik, Masalah gigi dan gusi, seperti berdarah atau gusi yang bengkak, Masalah pada perkembangan otak pada anak-anak, Masalah reproduksi pada wanita, termasuk haid tidak teratur, Mata cekung, Penurunan berat badan yang signifikan, Rambut kering, Rambut mudah rontok, Sembelit",nan
+Mastisis,"Abses, Ambing Bengkak, Anoresia, Liur Berlebihan",Bisa menyebabkan kematian
+Miasis,"Bau busuk yang tidak sedap dari luka atau area terinfeksi, Gangguan umum dalam perilaku atau kesehatan, Hilangnya bulu atau rambut pada area yang terinfeksi, Penurunan berat badan, Kehilangan nafsu makan, Kemerahan, Luka Berdarah, Menggaruk atau menggosok bagian tubuh tertentu, Pembengkakan pada area terinfeksi, Pembentukan benjolan atau lepuh pada kulit, Peradangan kulit, Perilaku gelisah atau gatal, Sekresi cairan atau nanah dari area terinfeksi",Beresiko keluar belatung jika semakin dibiarkan akan semakin membesar
+Orf,"Kelainan mata, Kelainan mulut, Radang mata",nan
+Otitis Interna,Radang telinga,nan
+Papilloma,Kelainan kulit,nan
+Pneumonia,"Batuk, Kekurusan",nan
+Prolapsus Dubur,Prolaps Anus,nan
+Q fever,"Ambing bengkak, Demam",nan
+Radang Mata,"Borok Perkulitan, Bulu Rontok, Daun Telinga Keropeng, Gatal atau terasa seperti ada benda asing di mata, Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri), Keluarnya sekresi , Kornea Mata Keruh, Mata berair, Mata berdarah, Mata iritasi, Mata merah , Mata terasa kering atau terasa pasir di mata, Mengedipkan mata lebih sering dari biasanya, Pembengkakan pada kelopak mata, Pengeluaran nanah dari mata, Penglihatan kabur, Perkulitan, Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri), Rasa nyeri atau ketidaknyamanan di mata, Rasa perih atau sakit di mata, Sensasi panas di mata, Sensitivitas terhadap cahaya (fotofobia)","Beresiko kebutaan, tidak terlalu beresiko"
+Retensio Secundarium,"Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk), Kenaikan suhu tubuh (demam), Nyeri atau kram perut bagian bawah, Perasaan penuh atau tertekan di perut bagian bawah, Perdarahan vagina yang berkepanjangan setelah persalinan, Retensi placenta",nan
+Scabies,"Anorexia, Borok Perkulitan, Bulu Rontok, gatal, Perkulitan",Bisa menghisap darah dan sangat beresiko yang langsung berkontrasi dengan sapi tersebut
+Silent heart,anestrus,nan
+Stomatitis,"Anorexia, Demam, Liur berdarah",nan
+Surra,"Anorexia, Demam, Sempoyongan",nan
+Tidak Sakit,"Tanda lain, Tidak Sakit",nan
+Tympany,"Kegagalan hewan untuk makan atau minum, gelisah, Kehilangan nafsu makan, Kesulitan bergerak atau berdiri, Kesulitan bernapas, Keterlambatan dalam pengosongan perut, Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat, Pernapasan cepat, Perut yang membesar secara tiba-tiba, Perut yang membuncit , Produksi ludah berlebihan, Sapi tampak gelisah, Sapi tampak tidak nyaman, Sering mengunyah atau menggerogoti benda-benda di sekitarnya, Suara perut yang berbunyi-bunyi",nan
+Urolothiasis,Kesulitan kencing,nan
